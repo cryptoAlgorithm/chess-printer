@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Motor_Trinamic")(type "KiCad")(uri "${KIPRJMOD}/footprints/Motor_Trinamic.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/footprints/Espressif")(options "")(descr ""))
+  (lib (name "NUSH")(type "KiCad")(uri "${KIPRJMOD}/footprints/NUSH")(options "")(descr ""))
+)
