@@ -77,12 +77,12 @@
         "name": "ChessBotController.kicad_sch",
         "open": true,
         "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -1,
-          "pos_y": 38,
+          "display": 1,
+          "maximized": false,
+          "pos_x": 305,
+          "pos_y": -1373,
           "size_x": 1512,
-          "size_y": 888
+          "size_y": 944
         }
       },
       {
@@ -91,10 +91,10 @@
         "window": {
           "display": 1,
           "maximized": false,
-          "pos_x": -211,
-          "pos_y": -1327,
-          "size_x": 1595,
-          "size_y": 1078
+          "pos_x": -223,
+          "pos_y": -1110,
+          "size_x": 1512,
+          "size_y": 944
         }
       }
     ]
