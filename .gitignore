@@ -26,4 +26,4 @@ Temporary Items
 .apdisk
 
 # KiCad backups
-*-backups/
+/*-backups/
