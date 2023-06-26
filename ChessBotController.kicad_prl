@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "All Layers",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -21,7 +21,7 @@
       "keepouts": true,
       "lockedItems": false,
       "otherItems": true,
-      "pads": true,
+      "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,
@@ -72,31 +72,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "ChessBotController.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": 305,
-          "pos_y": -1373,
-          "size_x": 1512,
-          "size_y": 944
-        }
-      },
-      {
-        "name": "ChessBotController.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": -223,
-          "pos_y": -1110,
-          "size_x": 1512,
-          "size_y": 944
-        }
-      }
-    ]
+    "files": []
   }
 }
